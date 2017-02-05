@@ -1,0 +1,11 @@
+{
+    "name": "daveil/garrykristel.com",
+    "description": "A day to remember. A promise of forever.",
+    "authors": [
+        {
+            "name": "Dave Alaras",
+            "email": "arroyo.daveil@gmail.com"
+        }
+    ],
+    "require": {}
+}
