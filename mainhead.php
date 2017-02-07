@@ -41,7 +41,7 @@
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
+	<!-- FOR IE9 below --> 
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
@@ -57,11 +57,4 @@
 
 	</script>
 
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<script>
-	  (adsbygoogle = window.adsbygoogle || []).push({
-	    google_ad_client: "ca-pub-4318160957115931",
-	    enable_page_level_ads: true
-	  });
-	</script>
 	</head>
