@@ -122,7 +122,7 @@
 		</div>
 	</div>
 
-	<?php include("/footer.php"); ?>
+	<?php include("footer.php"); ?>
 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
