@@ -35,7 +35,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center fh5co-heading animate-box">
 					<h2>When &amp Where </h2>
-					<h3>November 28th</h3>
+					<h3>May 28th</h3>
 					<p>We invited you to celebrate our wedding</p>
 
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3869.878374458344!2d121.13960641540977!3d14.084356290132948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd6f86d4165eb5%3A0xc9096337504df69a!2sMabini+Ave%2C+Tanauan%2C+Batangas!5e0!3m2!1sen!2sph!4v1486368293259" width="1200" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
