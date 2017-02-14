@@ -3,9 +3,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Garry & Kristel</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="description" content="Garry&Kristel" />
+	<meta name="keywords" content="html5, css3, mobile first, responsive" />
+	<meta name="author" content="" />
 
 
   	<!-- Facebook and Twitter integration -->
@@ -19,6 +19,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
 	
