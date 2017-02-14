@@ -2,6 +2,7 @@ function request_success(data){
 	console.log(data);
 	alert(data.message);
 	$(".inp-mailer").removeAttr("disabled");
+    $(".inp-mailer:not(:last)").val("");
 }
 $( document ).ready(function() {
     $('#submit-email').on('click',function(){
