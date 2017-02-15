@@ -36,7 +36,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<h2>Hello!</h2>
+					<h2>We're Getting Married!</h2>
 					<h3>May 28th, 2017</h3>
 					<p>We invited you to celebrate our wedding</p>
 				</div>
