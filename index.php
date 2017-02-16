@@ -178,7 +178,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<span>We Love Each Other</span>
 					<h2>Our Story</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+					<p><b class="b-light">THIS IS THE START</b> of our sweet little story <b class="b-light">THE PART WHERE</b> your page meets mine no matter where our tale <b class="b-light">TAKES US TOMORRIW</b> our story will always read.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -189,10 +189,20 @@
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">First We Meet</h3>
-									<span class="date">December 25, 2015</span>
+									<span class="date">January 2009</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>In their Physics subject, Kristel saw a new face and was a little bit shocked that there was a new student in their class. He hasn’t introduced himself yet. She approached her classmate who's having a conversation with the new student.Kristel noticed a USB that was like a pregnancy test holding by the new student, she said “Pregnancy test bayan?”. He did not answer.</p>
+
+									<p>Kristel annoyed that the new student ignored her and just go back to her seat, she was saying in her mind “aba suplado! Akalamogwapo!” While walking towards to her seat, she heard that the new student name was ‘GARRY’.It marks in her mind that Garry is Suplado! And feeling Gwapo. &#9786;</p>
+
+									<p>But as time passes by,Kristel noticed that she had the wrong impression to Garry, that he is just like that ‘tahimik, ’mahiyain’.</p>
+
+									<p>They are not the type of couple who has a huge experience in getting to know each other because they were classmate they just observing each other. But they don’t have any idea that they could become couple someday. </p>
+
+									<p>And then in their last year in college, they both take their OJT in some of the office’s in their school which is in the MIS Department. In their time in MIS, they became friends. Sometimes Kristel interrupt Garry when playing DOTA, she will turn off the PC or unplug the mouse same way that Garry interrupt Kristel with what she is doing. Sometimes Kristel asked for help to Garry in their thesis.</p>
+
+									<p>With that as time goes by they didn’t know that they will like each other, they secretly like each other. But she set aside her feelings to Garry because she is having a hard time finishing their thesis, she wants to focus in her studies. But Garry still pursuing if there is a chance between them, he escorts Kristel in her home and meet her family to formally say that he will court Kristel.</p>
 								</div>
 							</div>
 						</li>
@@ -201,10 +211,14 @@
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">First Date</h3>
-									<span class="date">December 28, 2015</span>
+									<span class="date">December 2011</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>Their First date was a double date with Kristel’s best friend. They watched movie titled ‘Enteng ng Ina mo’, chosen by her best friend. Even though Garry don’t want that kind of movie he still watched it.</p>
+									<p>Garry’s thought’s on their first date.
+
+									(He don’t have money on their first date, he only has 800 pesos in his pocket. He earn it from his allowance and it was for playing DOTA. But he didn’t expect that Kristel’s best friend invited him to watched movie with them) &#9786;
+									</p>
 								</div>
 							</div>
 						</li>
@@ -213,10 +227,13 @@
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">In A Relationship</h3>
-									<span class="date">January 1, 2016</span>
+									<span class="date">April 19, 2012</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>One of the sweetest day of their courtship is when Garry surprise Kristel in the despedida of their classmate. Kristel didn’t know that Garry is there because he said that he can’t come but when Kristel came back from the store into their classmate’s house, Garry was singing with flowers on his hands and gave it to her. Kristel felt ashamed in front of her classmate, she can’t talk and just walked out because she was very shocked and did not know what to do, but deep inside she was ‘kinikilig’. &#9786; </p>
+									<p>Garry also gave a ring to Kristel on their first valentine even she hasn’t said YES. &#9786; (That was awkward but it’s kind a sweet)</p>
+									<p>They had the normal courtship like the other couple; they exchanged numbers, they go out on a date etc. </p>
+									<p>After five months finally, Garry receive the sweetest YES ever. And that’s the start of their new journey as a couple.</p>
 								</div>
 							</div>
 						</li>

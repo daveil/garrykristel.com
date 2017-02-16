@@ -1840,4 +1840,7 @@ form label {
   opacity: 0;
 }
 
+.b-light {
+  color: rgba(165, 28, 87, 0.7);
+}
 /*# sourceMappingURL=style.css.map */
