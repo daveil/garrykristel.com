@@ -178,7 +178,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<span>We Love Each Other</span>
 					<h2>Our Story</h2>
-					<p><b class="b-light">THIS IS THE START</b> of our sweet little story <b class="b-light">THE PART WHERE</b> your page meets mine no matter where our tale <b class="b-light">TAKES US TOMORRIW</b> our story will always read.</p>
+					<p><b class="b-light">THIS IS THE START</b> of our sweet little story <b class="b-light">THE PART WHERE</b> your page meets mine no matter where our tale <b class="b-light">TAKES US TOMORROW</b> our story will always read.</p> 
 				</div>
 			</div>
 			<div class="row">
