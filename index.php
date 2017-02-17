@@ -194,7 +194,7 @@
 								<div class="timeline-body">
 									<p>In their Physics subject, Kristel saw a new face and was a little bit shocked that there was a new student in their class. He hasn’t introduced himself yet. She approached her classmate who's having a conversation with the new student.Kristel noticed a USB that was like a pregnancy test holding by the new student, she said “Pregnancy test bayan?”. He did not answer.</p>
 
-									<p>Kristel annoyed that the new student ignored her and just go back to her seat, she was saying in her mind “aba suplado! Akalamogwapo!” While walking towards to her seat, she heard that the new student name was ‘GARRY’.It marks in her mind that Garry is Suplado! And feeling Gwapo. &#9786;</p>
+									<p>Kristel annoyed that the new student ignored her and just go back to her seat, she was saying in her mind “aba suplado! Akala mo gwapo!” While walking towards to her seat, she heard that the new student name was ‘GARRY’.It marks in her mind that Garry is Suplado! And feeling Gwapo. &#9786;</p>
 
 									<p>But as time passes by,Kristel noticed that she had the wrong impression to Garry, that he is just like that ‘tahimik, ’mahiyain’.</p>
 
