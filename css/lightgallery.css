@@ -1,4 +1,4 @@
-/*! lightgallery - v1.3.9 - 2017-02-05
+/*! lightgallery - v1.3.9 - 2017-03-05
 * http://sachinchoolur.github.io/lightGallery/
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 @font-face {
@@ -323,7 +323,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
 }
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
-  border-color: #a90707;
+  border-color: #DE5D83;
 }
 .lg-outer .lg-thumb-item img {
   width: 100%;
@@ -455,7 +455,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   transition: opacity 0.08s ease 0s;
 }
 .lg-progress-bar .lg-progress {
-  background-color: #a90707;
+  background-color: #DE5D83;
   height: 5px;
   width: 0;
 }
@@ -971,3 +971,5 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -o-transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
   transition: left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s;
 }
+
+/*# sourceMappingURL=lightgallery.css.map */

@@ -256,8 +256,8 @@
 				<div class="col-md-12">
 					<ul id="fh5co-gallery-list">
 						
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gallery-1.jpg); "> 
-						<a href="images/gallery-1.jpg">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/bride.jpg); "> 
+						<a id="prenup-gallery" >
 							<div class="case-studies-summary">
 								<span>14 Photos</span>
 								<h2>Two Glas of Juice</h2>
@@ -338,59 +338,6 @@
 			</div>
 		</div>
 	</div>
-
-	<!-- <div id="fh5co-counter" class="fh5co-bg fh5co-counter" style="background-image:url(images/img_bg_5.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row">
-				<div class="display-t">
-					<div class="display-tc">
-						<div class="col-md-3 col-sm-6 animate-box">
-							<div class="feature-center">
-								<span class="icon">
-									<i class="icon-users"></i>
-								</span>
-
-								<span class="counter js-counter" data-from="0" data-to="500" data-speed="5000" data-refresh-interval="50">1</span>
-								<span class="counter-label">Estimated Guest</span>
-
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6 animate-box">
-							<div class="feature-center">
-								<span class="icon">
-									<i class="icon-user"></i>
-								</span>
-
-								<span class="counter js-counter" data-from="0" data-to="1000" data-speed="5000" data-refresh-interval="50">1</span>
-								<span class="counter-label">We Catter</span>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6 animate-box">
-							<div class="feature-center">
-								<span class="icon">
-									<i class="icon-calendar"></i>
-								</span>
-								<span class="counter js-counter" data-from="0" data-to="402" data-speed="5000" data-refresh-interval="50">1</span>
-								<span class="counter-label">Events Done</span>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6 animate-box">
-							<div class="feature-center">
-								<span class="icon">
-									<i class="icon-clock"></i>
-								</span>
-
-								<span class="counter js-counter" data-from="0" data-to="2345" data-speed="5000" data-refresh-interval="50">1</span>
-								<span class="counter-label">Hours Spent</span>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> -->
 
 	<div id="fh5co-testimonial">
 		<div class="container">
@@ -491,7 +438,8 @@
 	</div>
 	
 	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
+	<!-- <script src="js/jquery.min.js"></script> -->
+	<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 	<!-- jQuery Easing -->
 	<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
@@ -502,6 +450,17 @@
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- countTo -->
 	<script src="js/jquery.countTo.js"></script>
+
+	<!-- lightgallery and share-->
+	<script src="js/lightgallery.js"></script>
+    <script src="js/lg-hash.js"></script>
+	<script src="js/lg-share.js"></script>
+    <script src="js/lg-fullscreen.js"></script>
+    <script src="js/lg-thumbnail.js"></script>
+    <script src="js/lg-video.js"></script>
+    <script src="js/lg-autoplay.js"></script>
+    <script src="js/lg-zoom.js"></script>
+    <script src="js/lg-pager.js"></script>
 
 	<!-- Stellar -->
 	<script src="js/jquery.stellar.min.js"></script>
@@ -531,6 +490,40 @@
 	        day: 28,
 	        enableUtc: false
 	    });
+	</script>
+	<!-- GALLERY -->
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+
+			$('#prenup-gallery').on('click', function() {
+
+				$.ajax({
+				  	url: "images/prenup/",
+				  	success: function(data){
+					    var dynamicPics = [];
+
+					    $(data).find("a:contains(.jpg)").each(function(){
+					        // will loop through 
+					        var images = $(this).attr("href");
+					        var imgObj ={
+						            src: "images/prenup/"+images,
+						            thumb: "images/prenup/"+images
+						        };
+						    dynamicPics.push(imgObj);
+					    });
+					    //load gallery
+					    $("#prenup-gallery").lightGallery({
+					        dynamic: true,
+					        fullScreen: false,
+					        thumbnail:true,
+					        dynamicEl: dynamicPics
+					    });
+				  	}
+				});
+
+			});
+		});
 	</script>
 
 	</body>

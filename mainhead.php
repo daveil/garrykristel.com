@@ -40,6 +40,9 @@
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="css/style.css">
 
+	<!-- LightGallery style  -->
+	<link href="css/lightgallery.css" rel="stylesheet">
+
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below --> 
