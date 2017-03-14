@@ -491,37 +491,31 @@
 	        enableUtc: false
 	    });
 	</script>
+	<?php 
+		$prenup_pics = scandir('images/prenup/');
+		$dynamicPics = array();
+		foreach ($prenup_pics as $file) {
+			if ($file == '.' || $file == '..') { 
+          		continue; 
+        	}
+        	$push_item = array(
+        		"src"=>"images/prenup/".$file,
+        		"thumb"=>"images/prenup/".$file
+        	);
+        	array_push($dynamicPics,$push_item);
+		}
+		$dynamicPics = json_encode($dynamicPics);
+	?>
 	<!-- GALLERY -->
 	<script type="text/javascript">
 		$( document ).ready(function() {
-			
-
 			$('#prenup-gallery').on('click', function() {
-
-				$.ajax({
-				  	url: "images/prenup/",
-				  	success: function(data){
-					    var dynamicPics = [];
-
-					    $(data).find("a:contains(.jpg)").each(function(){
-					        // will loop through 
-					        var images = $(this).attr("href");
-					        var imgObj ={
-						            src: "images/prenup/"+images,
-						            thumb: "images/prenup/"+images
-						        };
-						    dynamicPics.push(imgObj);
-					    });
-					    //load gallery
-					    $("#prenup-gallery").lightGallery({
-					        dynamic: true,
-					        fullScreen: false,
-					        thumbnail:true,
-					        dynamicEl: dynamicPics
-					    });
-				  	}
-				});
-
+			    $("#prenup-gallery").lightGallery({
+			        dynamic: true,
+			        fullScreen: false,
+			        thumbnail:true,
+			        dynamicEl: <?=$dynamicPics?>
+			    });
 			});
 		});
 	</script>
