@@ -1,0 +1,4 @@
+RewriteEngine   On
+RewriteBase     /
+RewriteCond     $1 !^(\#(.)*|\?(.)*|\.buildpath(.)*|.svn\/(.)*|admin\.php(.)*|content\/(.)*|download\.php(.)*|images\/(.)*|index\.php(.)*|install\/(.)*|login\.php(.)*|readme\.txt(.)*|robots\.txt(.)*)
+RewriteRule     ^(.+)$ index.php?url=$1 [L]
