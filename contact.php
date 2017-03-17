@@ -80,7 +80,7 @@
 		    else
 		        $ipaddress = 'UNKNOWN';
 		    return $ipaddress;
-		} 
+		}  
 	?> 
 
 	<div class="fh5co-section">
