@@ -345,7 +345,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   bottom: 100px;
 }
 .lg-outer .lg-toogle-thumb {
-  background-color: #0D0A0A;
+  background-color: #ff6c9e;
   border-radius: 2px 2px 0 0;
   color: #999;
   cursor: pointer;
