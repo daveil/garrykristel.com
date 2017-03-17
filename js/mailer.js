@@ -13,7 +13,7 @@ $( document ).ready(function() {
     	var email = $('#email').val();
     	var subject = $('#subject').val();
     	var message = $('#message').val();
-        message = message. " from ip: ".ipadd;
+        message = message+" from ip: "+ipadd;
     	$.ajax({
     		type: "GET",
     		dataType:"jsonp", 
