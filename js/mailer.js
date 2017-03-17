@@ -7,11 +7,13 @@ function request_success(data){
 $( document ).ready(function() {
     $('#submit-email').on('click',function(){
     	$(".inp-mailer").attr("disabled","disabled");
+        var ipadd = $('#ipadd').val();
     	var fname = $('#fname').val();
     	var lname = $('#lname').val();
     	var email = $('#email').val();
     	var subject = $('#subject').val();
     	var message = $('#message').val();
+        message = message. " from ip: ".ipadd;
     	$.ajax({
     		type: "GET",
     		dataType:"jsonp",
