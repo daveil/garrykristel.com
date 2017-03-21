@@ -79,7 +79,6 @@
 	    else
 	        $ipaddress = 'UNKNOWN';
 	?> 
-
 	<div class="fh5co-section">
 		<div class="container">
 			<div class="row">
