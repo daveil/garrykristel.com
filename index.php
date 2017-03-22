@@ -256,7 +256,7 @@
 				<div class="col-md-12">
 					<ul id="fh5co-gallery-list">
 						
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/prenup/DSC_2950.JPG); "> 
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/bride.jpg); "> 
 						<a id="prenup-gallery" >
 							<div class="case-studies-summary">
 								<span>14 Photos</span>
