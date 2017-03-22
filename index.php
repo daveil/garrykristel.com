@@ -138,15 +138,15 @@
 									<h3>Main Ceremony</h3>
 									<div class="event-col">
 										<i class="icon-clock"></i>
-										<span>4:00 PM</span>
-										<span>6:00 PM</span>
+										<span>10:00 AM</span>
+										<span>11:00 AM</span>
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
 										<span>May 28</span>
 										<span>May, 2017</span>
 									</div>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>The ceremony will begin at 10:00 AM sharp at Nuestra Senora De La Soledad Parish Tanuan Batangas. Please arrive 15 - 20 minutes early to allow time for seating and parking. We will be taking our wedding photographs after the ceremony and encourage all of our guests to proceed to the reception and begin enjoying the snack buffet.</p>
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6 text-center">
@@ -154,15 +154,15 @@
 									<h3>Wedding Party</h3>
 									<div class="event-col">
 										<i class="icon-clock"></i>
-										<span>7:00 PM</span>
-										<span>12:00 AM</span>
+										<span>11:00 AM</span>
+										<span>02:00 PM</span>
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
 										<span>Sunday 28</span>
 										<span>May, 2017</span>
 									</div>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>Wedding Party Will be held at Tanauan Event Center J. Collantes St., Brgy. II, Tanauan, Batangas. </p>
 								</div>
 							</div>
 						</div>
