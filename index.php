@@ -172,6 +172,22 @@
 		</div>
 	</div>
 
+	<div id="fh5co-couple" class="fh5co-section-gray">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center fh5co-heading animate-box">
+					<h2>When &amp Where </h2>
+					<h3>May 28th</h3>
+					<p>We invited you to celebrate our wedding</p>
+
+					<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15480.164550433414!2d121.14335078298159!3d14.074748155809393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x33bd6f3900000001%3A0x7f66c711b44f28af!2sNuestra+senora+de+la+Soledad%2C+Tanauan%2C+Batangas!3m2!1d14.0663985!2d121.1526779!4m5!1s0x33bd6f5c0abc033b%3A0x880c919bb377363c!2sTanauan+Event+Center%2C+J.+Collantes+St.%2C+Brgy.+II%2C+Tanauan%2C+Batangas!3m2!1d14.0837987!2d121.15379019999999!5e0!3m2!1sen!2sph!4v1490182468967" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
 	<div id="fh5co-couple-story">
 		<div class="container">
 			<div class="row">
@@ -372,6 +388,87 @@
 		</div>
 	</div>
 
+	<?php
+		// Function to get the client IP address
+	    $ipaddress = '';
+	    if (isset($_SERVER['HTTP_CLIENT_IP']))
+	        $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
+	    else if(isset($_SERVER['HTTP_X_FORWARDED_FOR']))
+	        $ipaddress = $_SERVER['HTTP_X_FORWARDED_FOR'];
+	    else if(isset($_SERVER['HTTP_X_FORWARDED']))
+	        $ipaddress = $_SERVER['HTTP_X_FORWARDED'];
+	    else if(isset($_SERVER['HTTP_FORWARDED_FOR']))
+	        $ipaddress = $_SERVER['HTTP_FORWARDED_FOR'];
+	    else if(isset($_SERVER['HTTP_FORWARDED']))
+	        $ipaddress = $_SERVER['HTTP_FORWARDED'];
+	    else if(isset($_SERVER['REMOTE_ADDR']))
+	        $ipaddress = $_SERVER['REMOTE_ADDR'];
+	    else
+	        $ipaddress = 'UNKNOWN';
+	?> 
+
+	<div class="fh5co-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-push-6 animate-box">
+					<h3>Get In Touch</h3>
+					<form onsubmit="event.preventDefault();" id="mymailer">
+						<div class="row form-group">
+							<div class="col-md-6">
+								<label for="fname">First Name</label>
+								<input type="text" id="ipadd" style="display:none" value="<?=$ipaddress?>">
+								<input type="text" id="fname" class="form-control inp-mailer" placeholder="Your firstname">
+							</div>
+							<div class="col-md-6">
+								<label for="lname">Last Name</label>
+								<input type="text" id="lname" class="form-control inp-mailer" placeholder="Your lastname">
+							</div>
+						</div>
+
+						<div class="row form-group">
+							<div class="col-md-12">
+								<label for="email">Email</label>
+								<input type="text" id="email" class="form-control inp-mailer" placeholder="Your email address">
+							</div>
+						</div>
+
+						<div class="row form-group">
+							<div class="col-md-12">
+								<label for="subject">Subject</label>
+								<input type="text" id="subject" class="form-control inp-mailer" placeholder="Your subject of this message">
+							</div>
+						</div>
+
+						<div class="row form-group">
+							<div class="col-md-12">
+								<label for="message">Message</label>
+								<textarea name="message" id="message" cols="30" rows="10" class="form-control inp-mailer" placeholder="Write us something"></textarea>
+							</div>
+						</div>
+						<div class="form-group">
+							<input id="submit-email" type="submit" value="Send Message" class="btn btn-primary inp-mailer">
+						</div>
+
+					</form>		
+				</div>
+				<div class="col-md-5 col-md-pull-5 animate-box">
+					
+					<div class="fh5co-contact-info">
+						<h3>Contact Information</h3>
+						<ul>
+							<li class="address">198 Tanauan Sambat, <br> Batangas</li>
+							<li class="phone"><a href="tel://1234567920">+ 123456</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">help@garrykristel.com</a></li>
+							<li class="url"><a href="http://help.garrykristel.com">help.garrykristel.com</a></li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
 	<?php include("footer.php"); ?>
 	
 	</div>
@@ -415,6 +512,7 @@
 	<script src="js/simplyCountdown.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+	<script src="js/mailer.js"></script>
 
 	<script>
 	    var d = new Date(new Date().getTime() + 200 * 120 * 120 * 2000);
