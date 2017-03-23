@@ -180,7 +180,7 @@
 					<h3>May 28th</h3>
 					<p>We invited you to celebrate our wedding</p>
 
-					<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15480.164550433414!2d121.14335078298159!3d14.074748155809393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x33bd6f3900000001%3A0x7f66c711b44f28af!2sNuestra+senora+de+la+Soledad%2C+Tanauan%2C+Batangas!3m2!1d14.0663985!2d121.1526779!4m5!1s0x33bd6f5c0abc033b%3A0x880c919bb377363c!2sTanauan+Event+Center%2C+J.+Collantes+St.%2C+Brgy.+II%2C+Tanauan%2C+Batangas!3m2!1d14.0837987!2d121.15379019999999!5e0!3m2!1sen!2sph!4v1490182468967" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15480.164550433414!2d121.14335078298159!3d14.074748155809393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x33bd6f3900000001%3A0x7f66c711b44f28af!2sNuestra+senora+de+la+Soledad%2C+Tanauan%2C+Batangas!3m2!1d14.0663985!2d121.1526779!4m5!1s0x33bd6f5c0abc033b%3A0x880c919bb377363c!2sTanauan+Event+Center%2C+J.+Collantes+St.%2C+Brgy.+II%2C+Tanauan%2C+Batangas!3m2!1d14.0837987!2d121.15379019999999!5e0!3m2!1sen!2sph!4v1490182468967" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 				</div>
 			</div>
