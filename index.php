@@ -382,7 +382,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_1.JPG);">
+	<div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/img_bg_1.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row animate-box">
