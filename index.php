@@ -504,6 +504,13 @@
 			        dynamicEl: <?=$dynamicPics?>
 			    });
 			});
+
+			$(".menu-1 ul li a").click(function( e ) { // navs animation
+			    e.preventDefault();    
+			    var aid = $(this).attr("href");    
+			    $('html,body').animate({scrollTop: $(aid).offset().top},'slow');
+			});
+
 		});
 	</script>
 
