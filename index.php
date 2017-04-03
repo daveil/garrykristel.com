@@ -111,7 +111,7 @@
 
 				<div class="col-md-12 animate-box">
 					<div class="fh5co-video fh5co-bg" style="background-image: url(images/img_bg_6.JPG); ">
-						<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
+						<a href="https://vimeo.com/211292117" class="popup-vimeo"><i class="icon-video2"></i></a>
 						<div class="overlay"></div>
 					</div>
 				</div>
