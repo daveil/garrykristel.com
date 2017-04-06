@@ -275,23 +275,23 @@
 							<a id="prenup-gallery" >
 								<div class="case-studies-summary">
 									<!-- <span>14 Photos</span> -->
-									<h2>Two Glas of Juice</h2>
+									<h2>Prenup</h2>
 								</div>
 							</a>
 						</li>
 						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gallery-2.jpg); ">
 							<a href="#" class="color-2">
 								<div class="case-studies-summary">
-									<span>30 Photos</span>
-									<h2>Timer starts now!</h2>
+									<!-- <span>30 Photos</span> -->
+									<h2>Wedding Ceremony</h2>
 								</div>
 							</a>
 						</li>
 						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gallery-3.jpg); ">
 							<a href="#" class="color-3">
 								<div class="case-studies-summary">
-									<span>90 Photos</span>
-									<h2>Beautiful sunset</h2>
+									<!-- <span>90 Photos</span> -->
+									<h2>Wedding Party</h2>
 								</div>
 							</a>
 						</li>
