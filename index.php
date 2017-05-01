@@ -369,9 +369,9 @@
 					<div class="fh5co-contact-info">
 						<h3>Contact Information</h3>
 						<ul>
-							<li class="address">198 Tanauan Sambat, <br> Batangas</li>
-							<li class="phone"><a href="tel://1234567920">+ 123456</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">help@garrykristel.com</a></li>
+							<li class="address">Tanauan Sambat, <br> Batangas</li>
+							<li class="phone"><a href="tel://1234567920">+639 987908492</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">perez.garrym@gmail.com</a></li>
 							<li class="url"><a href="http://help.garrykristel.com">help.garrykristel.com</a></li>
 						</ul>
 					</div>
@@ -393,7 +393,8 @@
 			</div>
 			<div class="row animate-box">
 				<div class="col-md-10 col-md-offset-1">
-					<form class="form-inline">
+					<form class="form-inline" onsubmit="event.preventDefault();" id="myAttendie">
+						<input type="text" class="ipadd" style="display:none" value="<?=$ipaddress?>">
 						<div class="col-md-4 col-sm-4">
 							<div class="form-group">
 								<label for="name" class="sr-only">Name</label>
@@ -403,7 +404,7 @@
 						<div class="col-md-4 col-sm-4">
 							<div class="form-group">
 								<label for="email" class="sr-only">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Email">
+								<input type="email" class="form-control" id="attendie-email" placeholder="Email">
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
