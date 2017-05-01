@@ -394,7 +394,7 @@
 			<div class="row animate-box">
 				<div class="col-md-10 col-md-offset-1">
 					<form class="form-inline" onsubmit="event.preventDefault();" id="myAttendie">
-						<input type="text" class="ipadd" style="display:none" value="<?=$ipaddress?>">
+						<input type="text" class="" id="ipaddAttendie" style="display:none" value="<?=$ipaddress?>">
 						<div class="col-md-4 col-sm-4">
 							<div class="form-group">
 								<label for="name" class="sr-only">Name</label>
@@ -408,7 +408,7 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
-							<button type="submit" class="btn btn-default btn-block">I am Attending</button>
+							<button type="submit" id="submit-attendie" class="btn btn-default btn-block">I am Attending</button>
 						</div>
 					</form>
 				</div>

@@ -23,7 +23,7 @@ $( document ).ready(function() {
 
     $('#submit-attendie').on('click',function(){
         $(".inp-mailer").attr("disabled","disabled");
-        var ipadd = $('.ipadd').val();
+        var ipadd = $('#ipaddAttendie').val();
         var fname = "";
         var lname = "";
         var email = $('#attendie-email').val();
