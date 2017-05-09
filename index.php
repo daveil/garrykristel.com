@@ -154,8 +154,8 @@
 									<h3>Wedding Party</h3>
 									<div class="event-col">
 										<i class="icon-clock"></i>
-										<span>11:00 AM</span>
-										<span>02:00 PM</span>
+										<span>12:00 PM</span>
+										<span>03:00 PM</span>
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
